@@ -11,7 +11,7 @@
     "ring": "trial",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Many projects have <i>external</i> code dependencies ..."
+    "description": "Many projects have <strong>external</strong> code dependencies ..."
   },
   {
     "name": "Apache Kylin",
