@@ -1,4 +1,11 @@
 [
+   {
+    "name": "Product discovery sessions",
+    "ring": "adopt",
+    "quadrant": "techniques",
+    "isNew": "FALSE",
+    "description": "The product discovery process has two distinct parts. It includes developing a profound understanding of customers, then using that knowledge to build vital products for customers. Product discovery plays a key role in helping product teams decide which features or products to prioritize and build, while setting the stage for achieving product excellence."
+  },
   {
     "name": "Four key metrics",
     "ring": "asses",
