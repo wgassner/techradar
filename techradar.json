@@ -21,17 +21,17 @@
     "description": "Many projects have <strong>external</strong> code dependencies ..."
   },
   {
-    "name": "Apache Kylin",
-    "ring": "assess",
-    "quadrant": "platforms",
-    "isNew": "TRUE",
-    "description": "Apache Kylin is an open source analytics solution ..."
-  },
-  {
     "name": "PL/SQL",
     "ring": "hold",
     "quadrant": "languages & frameworks",
     "isNew": "FALSE",
     "description": "We continue to implement new business logic in Java and gradually obsolete or migrate existing legacy code in PL/SQL. However PL/SQL may still be considered as the first choice for data intensive transformations for performance and throughput reasons."
+  },
+  {
+    "name": "Apache Kylin",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Apache Kylin is an open source analytics solution ..."
   }
 ]
